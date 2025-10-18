@@ -21,6 +21,7 @@ This repository contains the solutions to problems I have solved on the LeetCode
 * The repository is for personal learning and reference purposes
 
 
+
 TR
 # LeetCode Çözümlerim
 Bu repo, LeetCode platformunda çözdüğüm soruların çözümlerini içermektedir. Her çözüm, otomatik olarak GitHub reposuna pushlanmaktadır ve kişisel öğrenme süreçlerimi belgelemek için kullanılmaktadır.
@@ -30,7 +31,7 @@ Bu repo, LeetCode platformunda çözdüğüm soruların çözümlerini içermekt
 * Algoritma ve SQL soruları
 * Problem çözme örnekleri
 
-* ## Amaç
+## Amaç
 
 * Kendi algoritma ve programlama becerilerimi geliştirmek
 * Çözümleri düzenli bir şekilde takip etmek
